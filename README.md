@@ -1,0 +1,2 @@
+# SwiftUISetting
+iPhone Setting
